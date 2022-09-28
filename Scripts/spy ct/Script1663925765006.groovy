@@ -21,3 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.authenticate('https://covo-preprod.wylog.com', 'covopreprod', 'covo2021!', 60)
 
+WebUI.acceptAlert()
+
